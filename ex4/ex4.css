@@ -1,0 +1,25 @@
+body{
+  background-color: #131313;
+  color: white;
+}
+
+h1 {
+  padding: 20px;
+}
+
+img{
+  width: 200px;
+}
+
+
+.hero-container {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  justify-content: center;
+}
+
+.caracteristics{
+  text-align: left;
+  margin-left:40px;
+}
